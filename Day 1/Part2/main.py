@@ -1,4 +1,4 @@
-file_to_execute = "input"
+file_to_execute = "../input"
 with open(file_to_execute) as f:
     lines = f.read().splitlines()
 
